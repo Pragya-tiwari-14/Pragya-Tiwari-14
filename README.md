@@ -1,7 +1,6 @@
 # Hi, I’m Pragya Tiwari 👋
 
-Frontend Developer | React & Tailwind | UI/UX Enthusiast | SIH 2025 Aspirant
-
+Frontend Developer | React & Tailwind | UI/UX Enthusiast | 
 I’m a B.Tech CSE student who builds pixel-perfect, responsive web apps. I work with React, Tailwind CSS, GSAP, and I’m learning Node.js + MongoDB to go full-stack. I enjoy turning designs into smooth experiences and am preparing for SIH 2025.
 
 ---
